@@ -5,14 +5,6 @@ Created on Sun Dec  4 14:00:08 2016
 @author: reyansh
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Dec  2 04:39:22 2016
-
-@author: reyansh
-"""
-
-
 import numpy as np
 import pygame
 import matplotlib.pyplot as plt
